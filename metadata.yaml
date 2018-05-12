@@ -1,0 +1,32 @@
+_repo: Proza_31580
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31580-h/images/cover-spine.jpg
+creator:
+  author:
+    agent_name: Looy, Jacobus van
+    alias: Van Looy, Jacobus
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '33064'
+    url: http://www.gutenberg.org/2009/agents/33064
+description: ''
+gutenberg_issued: '2010-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31580'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Spain -- Fiction'
+- !lcsh 'Short stories, Dutch'
+tableOfContents: Een dag met sneeuw -- Een mislukte dag -- Een zonnige ochtend --
+  Een reisindruk -- Een stierengevecht -- Het einde van een stierengevecht -- De nachtcactus
+  -- La Mancha, uit een brief -- De dood van mijn poes -- Een tango -- Een hengelaar
+  -- Brugge -- Londen -- Een wandeling -- Boekbeoordeeling.
+title: Proza
+url: http://www.gutenberg.org/ebooks/31580
